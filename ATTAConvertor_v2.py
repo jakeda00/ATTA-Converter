@@ -1,4 +1,4 @@
-import tkMessageBox
+import tkMessageBo
 from Tkinter import *
 from tkFileDialog import askopenfilename, asksaveasfilename
 
